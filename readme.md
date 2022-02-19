@@ -5,8 +5,8 @@
 5. the metrics of business
 6. stopping anarchy; key drivers to change and maintenance; from the front to end ...
 7. tools of the system and ultra security..
-8. awareness of the cultivation; support and happiness
-9. exercising targeted control
+8. awareness of the cultivation; support and happiness; but focus on the businesss
+9. exercising targeted control, keeping people happy, spurring debate:: overrides of business
 10. complexity of business and components
 11. delivering solutions 
 12. solutions time factors and perfomance
