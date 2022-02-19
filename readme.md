@@ -12,4 +12,5 @@
 12. solutions time factors and perfomance
 13. performance optimisation.
 14. the modifier of data
-15. feedback and failure.
+15. feedback and failure, scope and what being system-aware means.
+16. system-awareness
