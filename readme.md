@@ -14,4 +14,5 @@
 14. the modifier of data
 15. feedback and failure, scope and what being system-aware means.
 16. system-awareness
-17. dont-overload but be good since you will get promoted...
+17. dont-overload
+18. complexity of data and hosting 
