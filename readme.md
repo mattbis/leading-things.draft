@@ -11,4 +11,5 @@
 11. delivering solutions 
 12. solutions time factors and perfomance
 13. performance optimisation.
-13. the modifier of data
+14. the modifier of data
+15. feedback and failure.
