@@ -7,7 +7,7 @@
 7. tools of the system
 8. awareness of the cultivation; support and happiness
 9. exercising targeted control
-10. complexity of business 
+10. complexity of business and components
 11. delivering solutions 
 12. solutions time factors and perfomance
 13. performance optimisation.
