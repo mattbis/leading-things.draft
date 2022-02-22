@@ -16,3 +16,4 @@
 16. system-awareness
 17. dont-overload
 18. complexity of data and hosting 
+19. dont over-sell ever .. or create high-pressure scenarios
