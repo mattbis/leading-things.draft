@@ -17,3 +17,4 @@
 17. dont-overload
 18. complexity of data and hosting 
 19. dont over-sell ever .. or create high-pressure scenarios
+20. dont be afraid to provide drastic changes aim for realism if it takes many incremental steps than do it .. 
