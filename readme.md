@@ -14,7 +14,7 @@
 14. the modifier of data
 15. feedback and failure, scope and what being system-aware means.
 16. system-awareness
-17. dont-overload
+17. dont-overload; must scale...
 18. complexity of data and hosting 
 19. dont over-sell ever .. or create high-pressure scenarios
 20. dont be afraid to provide drastic changes aim for realism if it takes many incremental steps than do it .. 
